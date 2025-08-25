@@ -1,5 +1,6 @@
 # app.py
 # This is a test commit
+# It's an addition program
 def add(a, b):
     return a + b
 
