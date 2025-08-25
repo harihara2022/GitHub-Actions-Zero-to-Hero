@@ -22,7 +22,7 @@ jobs:
       with:
         java-version: 12
 
-    - name: maven target # change accordingly
+    - name: maven target # change accordinglyy
       run: mvn clean install
 
     - name: Perform analysis on Sonar Qube
